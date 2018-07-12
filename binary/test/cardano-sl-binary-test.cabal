@@ -28,6 +28,7 @@ library
                      , cborg
                      , cereal
                      , cryptonite
+                     , containers
                      , directory
                      , filepath
                      , file-embed
@@ -39,6 +40,7 @@ library
                      , pretty-show
                      , quickcheck-instances
                      , safecopy
+                     , serokell-util
                      , template-haskell
                      , text
                      , formatting
