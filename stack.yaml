@@ -48,6 +48,7 @@ packages:
 - wallet
 - wallet-new # The new (unreleased) version of the wallet
 - node-ipc
+- faucet
 - acid-state-exts
 
 # IOHK projects:
